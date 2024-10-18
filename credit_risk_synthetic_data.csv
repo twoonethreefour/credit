@@ -1,0 +1,501 @@
+Age,Gender,Employment Status,Education Level,Credit Score,Annual Income,DTI (%),Loan Amount,Loan Purpose,Interest Rate (%),Loan Term (months),Home Ownership,Open Accounts,Bankruptcy,Payment History (on-time),Delinquency (count),Credit Inquiries,Credit Utilization (%),Employment Length (years),Loan Status
+22,Female,Employed,Master's,351,34901,44.88,22790,Car,11.52,36,Own,4,2,23/57,0,2,49.95,23,Late
+62,Female,Self-employed,Master's,635,119311,27.24,6716,Home,5.24,36,Own,7,2,14/54,2,0,29.57,31,Current
+69,Male,Retired,Bachelor's,691,59948,28.5,10266,Credit Card,15.31,36,Own,5,1,1/51,0,1,84.71,35,Fully Paid
+43,Female,Employed,Master's,659,31663,46.81,18887,Medical,15.11,60,Mortgage,2,2,2/58,3,0,76.96,3,Fully Paid
+50,Male,Self-employed,Bachelor's,325,55498,28.46,24439,Car,9.45,36,Mortgage,5,1,37/52,3,0,70.91,34,Charged Off
+23,Male,Employed,Bachelor's,443,124072,42.36,26725,Home,20.71,60,Rent,7,0,18/56,3,4,17.32,16,Late
+36,Female,Retired,Bachelor's,639,95489,36.71,9055,Medical,13.78,36,Rent,10,0,41/59,0,0,17.28,34,Charged Off
+52,Male,Unemployed,High School,320,143486,31.97,48942,Medical,18.74,36,Own,10,2,30/54,2,4,34.79,5,Fully Paid
+44,Male,Employed,Bachelor's,786,143007,45.83,33979,Car,9.92,36,Mortgage,10,0,27/55,1,2,81.64,15,Fully Paid
+71,Male,Employed,Bachelor's,724,97612,16.74,6500,Home,12.66,36,Mortgage,4,0,45/51,0,5,12.42,15,Charged Off
+66,Male,Retired,Master's,469,73271,23.7,18376,Car,21.94,60,Mortgage,5,2,13/57,1,2,74.23,29,Fully Paid
+41,Female,Self-employed,High School,323,61642,41.42,49702,Medical,7.94,60,Mortgage,2,2,26/53,2,5,81.68,6,Late
+21,Male,Unemployed,Bachelor's,669,52950,19.12,25585,Car,24.09,36,Own,4,1,32/54,2,4,82.64,39,Charged Off
+66,Male,Employed,High School,596,22808,47.08,35545,Car,11.32,36,Own,4,0,22/55,1,0,48.77,10,Fully Paid
+52,Male,Employed,Bachelor's,541,28762,39.36,34166,Credit Card,7.37,36,Own,10,0,1/55,3,0,24.24,34,Fully Paid
+61,Female,Self-employed,Master's,756,96894,23.47,41178,Home,21.71,36,Mortgage,8,0,37/55,0,4,77.31,4,Charged Off
+19,Female,Unemployed,Bachelor's,814,110219,17.85,39366,Car,18.07,36,Own,3,2,35/57,2,2,52.99,31,Fully Paid
+39,Female,Self-employed,Bachelor's,810,112294,43.01,24084,Car,11.02,36,Rent,4,1,27/53,0,0,14.3,5,Late
+36,Male,Unemployed,High School,478,36732,26.55,12838,Home,17.98,60,Own,3,0,44/57,2,1,21.38,19,Current
+70,Female,Self-employed,Bachelor's,417,61812,46.08,22686,Car,11.73,36,Mortgage,3,1,30/52,0,4,67.9,29,Fully Paid
+26,Female,Employed,Bachelor's,790,112421,48.62,36971,Car,15.38,60,Rent,8,2,35/59,1,4,49.21,4,Fully Paid
+26,Female,Unemployed,Bachelor's,422,93478,17.57,25416,Credit Card,23.74,36,Own,11,1,14/53,2,1,70.47,9,Charged Off
+23,Male,Unemployed,Master's,843,126160,41.5,30550,Medical,17.21,36,Rent,11,0,49/58,0,2,63.23,14,Charged Off
+52,Male,Retired,High School,645,53846,28.44,35080,Car,12.75,36,Rent,8,0,41/58,0,0,29.6,7,Current
+36,Female,Unemployed,Master's,405,72800,23.53,49279,Credit Card,19.45,60,Rent,9,0,45/54,0,0,22.92,19,Late
+34,Male,Self-employed,Bachelor's,315,122721,42.05,23953,Car,8.18,36,Mortgage,7,1,22/51,1,2,70.43,32,Late
+49,Female,Retired,Bachelor's,478,46258,40.02,43533,Car,14.84,60,Own,8,1,14/56,0,5,17.22,39,Current
+35,Male,Employed,Bachelor's,612,94746,27.29,31062,Home,15.61,60,Mortgage,2,1,22/58,1,0,96.87,24,Late
+38,Female,Employed,High School,385,109891,30.54,9856,Car,9.09,60,Mortgage,3,2,46/56,2,0,58.39,2,Late
+71,Male,Self-employed,Master's,531,49808,15.61,23679,Home,14.98,36,Mortgage,11,1,39/54,2,4,66.32,22,Current
+55,Female,Unemployed,High School,625,115746,17.87,41095,Home,21.9,36,Mortgage,9,0,49/59,0,2,32.34,9,Late
+38,Female,Employed,Bachelor's,551,74001,30.51,18598,Medical,19.64,36,Rent,8,2,8/55,1,4,59.68,13,Late
+29,Female,Employed,High School,500,138778,15.87,39908,Credit Card,5.4,60,Mortgage,5,2,40/52,0,5,76.41,33,Late
+18,Female,Self-employed,Bachelor's,783,60858,27.11,24797,Car,5.34,36,Mortgage,4,2,18/56,1,2,73.17,11,Late
+25,Male,Employed,Bachelor's,398,86726,47.63,24882,Home,18.18,36,Own,7,1,4/52,2,4,90.39,25,Late
+65,Male,Employed,Bachelor's,841,68828,33.99,6692,Car,10.51,36,Own,7,0,48/55,0,4,34.74,35,Fully Paid
+31,Male,Self-employed,Master's,775,77421,33.03,6679,Medical,8.46,60,Mortgage,10,2,3/51,2,0,43.7,15,Late
+29,Female,Self-employed,High School,491,37676,43.91,25491,Home,5.07,36,Mortgage,10,1,3/52,3,2,60.87,4,Charged Off
+60,Male,Self-employed,High School,722,127269,31.38,8783,Home,24.05,36,Own,9,2,14/59,1,5,56.49,21,Charged Off
+19,Male,Unemployed,High School,829,102705,31.01,5400,Medical,13.56,60,Rent,3,0,44/57,1,3,84.48,26,Current
+40,Male,Employed,Bachelor's,300,39288,42.57,48820,Car,5.71,36,Mortgage,8,1,6/54,1,5,18.49,35,Charged Off
+29,Male,Self-employed,Master's,676,33733,36.46,39531,Medical,9.68,60,Mortgage,2,0,10/51,0,5,19.69,0,Fully Paid
+26,Male,Unemployed,Bachelor's,671,68438,20.94,7027,Car,21.24,60,Rent,6,2,17/59,2,3,29.01,0,Late
+28,Male,Retired,High School,599,60885,41.39,30094,Home,24.87,36,Own,10,1,9/52,3,2,90.0,13,Fully Paid
+74,Male,Self-employed,High School,334,28661,28.44,46690,Car,24.83,36,Rent,5,2,17/57,2,1,36.39,28,Late
+51,Male,Employed,Bachelor's,805,24910,27.86,40638,Home,20.63,36,Mortgage,10,2,46/52,1,5,44.83,19,Current
+62,Female,Unemployed,Master's,381,135649,29.31,36043,Car,22.34,36,Mortgage,7,1,45/55,1,1,22.48,9,Current
+27,Female,Unemployed,Bachelor's,572,23175,29.31,48183,Car,21.76,36,Rent,8,0,37/52,0,4,20.08,8,Fully Paid
+38,Male,Unemployed,Master's,727,99884,16.93,11231,Home,22.44,36,Rent,6,2,31/56,2,0,44.57,1,Fully Paid
+63,Female,Unemployed,Master's,849,112325,37.45,36282,Car,11.05,36,Rent,3,2,16/54,3,0,98.32,7,Current
+38,Female,Self-employed,Bachelor's,519,41832,40.54,42605,Credit Card,16.61,36,Mortgage,5,2,5/57,0,1,67.05,7,Late
+61,Male,Self-employed,High School,746,48982,38.58,49455,Credit Card,19.47,60,Mortgage,6,0,22/55,3,2,17.39,29,Fully Paid
+59,Male,Self-employed,Master's,770,137970,29.77,33020,Credit Card,14.38,60,Own,4,0,47/53,0,3,62.31,17,Current
+33,Male,Employed,High School,565,99210,23.84,15672,Credit Card,16.17,36,Mortgage,7,0,9/56,0,1,36.87,14,Current
+18,Female,Self-employed,Bachelor's,524,31511,38.51,16203,Credit Card,24.46,36,Mortgage,3,2,1/54,1,1,96.62,17,Late
+39,Female,Retired,Master's,644,116436,23.75,24949,Home,16.67,36,Own,7,1,19/51,3,0,64.33,8,Charged Off
+38,Female,Employed,High School,690,71375,26.69,42645,Car,18.22,60,Own,6,0,6/52,2,1,60.95,35,Late
+19,Female,Unemployed,Master's,667,114724,45.29,19384,Home,23.12,36,Mortgage,11,1,33/56,3,3,20.62,38,Fully Paid
+19,Female,Self-employed,Master's,442,43657,46.13,22840,Credit Card,22.52,60,Own,9,0,27/55,3,3,23.58,13,Late
+68,Male,Retired,High School,452,57905,18.31,26049,Home,17.28,60,Rent,5,2,49/59,2,5,11.75,18,Current
+40,Male,Retired,High School,458,118710,35.83,7088,Credit Card,14.73,36,Own,8,1,3/58,0,2,83.89,18,Fully Paid
+49,Female,Employed,Master's,647,92950,28.64,30919,Home,12.08,60,Own,8,2,40/55,3,4,67.49,12,Late
+25,Male,Self-employed,Bachelor's,596,146044,23.6,3956,Medical,18.34,60,Rent,5,0,22/52,1,4,53.06,32,Late
+59,Male,Unemployed,Master's,620,52468,18.35,12794,Credit Card,7.77,36,Own,2,1,40/52,3,1,73.64,20,Late
+74,Male,Unemployed,Master's,489,75004,43.49,47002,Credit Card,10.15,36,Mortgage,10,1,44/56,2,0,31.39,33,Charged Off
+67,Female,Employed,Bachelor's,566,31421,47.37,34157,Home,12.32,36,Mortgage,8,0,38/59,0,2,19.94,24,Late
+64,Female,Employed,Master's,448,139457,25.32,47992,Car,15.71,60,Mortgage,4,1,10/57,0,1,65.79,21,Charged Off
+36,Female,Unemployed,Bachelor's,848,91988,16.7,4896,Car,8.04,36,Mortgage,8,2,5/56,2,0,63.2,16,Fully Paid
+31,Female,Self-employed,Master's,701,117431,30.27,44954,Credit Card,24.98,60,Rent,10,0,42/55,3,4,65.08,11,Current
+50,Female,Employed,Bachelor's,814,72773,36.57,38107,Medical,15.57,60,Rent,11,2,39/53,2,4,50.58,2,Late
+37,Female,Retired,High School,727,27779,43.27,47966,Home,14.35,60,Rent,10,0,45/52,3,0,17.42,9,Late
+71,Male,Employed,High School,418,109674,35.67,42615,Credit Card,9.8,36,Mortgage,2,2,34/58,1,5,99.34,1,Late
+47,Male,Employed,High School,489,51138,19.52,40919,Car,10.33,36,Rent,2,2,19/52,2,4,54.99,22,Fully Paid
+62,Male,Retired,Bachelor's,792,107386,25.18,44023,Car,19.64,60,Own,11,0,14/54,0,2,11.56,16,Fully Paid
+37,Female,Employed,Master's,703,135303,24.46,34508,Car,20.18,60,Own,11,1,18/53,2,5,99.46,36,Fully Paid
+31,Male,Employed,Master's,488,75352,29.84,37294,Credit Card,17.96,60,Mortgage,8,2,8/53,2,1,97.71,2,Fully Paid
+69,Male,Unemployed,Bachelor's,409,36656,48.88,13668,Credit Card,16.6,36,Own,8,0,2/53,1,1,56.34,32,Fully Paid
+61,Female,Unemployed,Bachelor's,510,133757,41.3,36053,Home,7.15,60,Rent,9,2,40/59,2,4,44.85,5,Late
+65,Female,Self-employed,Bachelor's,330,31748,49.0,2696,Credit Card,8.47,60,Rent,11,2,39/53,0,2,93.07,2,Late
+32,Female,Employed,High School,342,92378,15.89,39015,Car,11.54,60,Own,3,1,32/51,1,5,35.07,7,Charged Off
+20,Female,Unemployed,Master's,348,28214,23.18,33535,Car,15.34,36,Rent,6,1,38/52,2,3,46.04,14,Current
+40,Female,Unemployed,Bachelor's,565,110576,47.56,3600,Home,7.4,60,Own,3,1,37/52,2,0,14.9,14,Current
+25,Female,Unemployed,High School,357,107219,44.13,7442,Home,23.26,60,Rent,3,2,6/53,2,3,99.79,10,Fully Paid
+68,Male,Self-employed,Master's,497,20257,20.8,21832,Car,5.66,36,Own,4,0,45/51,3,2,28.58,37,Fully Paid
+23,Female,Unemployed,Bachelor's,357,29621,47.04,44745,Credit Card,17.98,36,Own,8,1,11/58,0,0,81.76,24,Late
+46,Male,Self-employed,Master's,820,76468,16.13,43368,Medical,11.59,60,Mortgage,8,2,16/53,2,4,58.07,27,Current
+56,Male,Employed,High School,547,66346,35.7,11276,Car,23.6,36,Own,9,0,41/53,2,0,32.85,29,Charged Off
+72,Female,Self-employed,High School,424,26724,25.17,23585,Car,24.65,36,Own,2,2,13/59,0,1,89.51,27,Fully Paid
+63,Male,Employed,Bachelor's,602,127498,17.77,21389,Home,5.04,60,Rent,6,1,46/51,2,4,48.98,3,Late
+36,Female,Employed,Bachelor's,337,120734,17.39,22670,Credit Card,6.71,60,Rent,11,0,18/51,0,0,15.35,31,Late
+72,Male,Employed,Master's,847,87761,49.65,27715,Car,21.64,60,Own,7,2,11/59,3,4,57.96,23,Fully Paid
+29,Female,Retired,Master's,722,118709,35.92,2393,Credit Card,15.47,36,Mortgage,10,2,35/52,0,2,64.27,10,Charged Off
+26,Female,Employed,Master's,401,34682,21.92,43529,Credit Card,7.1,60,Own,2,1,18/58,0,5,22.02,37,Charged Off
+52,Female,Self-employed,Bachelor's,710,27238,26.78,32599,Credit Card,14.12,36,Mortgage,5,1,27/58,3,4,58.5,2,Late
+43,Female,Employed,High School,451,144083,38.43,8980,Home,13.96,60,Own,9,0,36/58,2,2,40.38,19,Charged Off
+60,Female,Self-employed,Master's,386,105454,23.13,5285,Medical,12.14,60,Own,5,1,12/55,0,1,39.51,37,Late
+32,Female,Unemployed,High School,361,125017,30.15,37074,Car,6.92,36,Own,4,0,29/53,2,1,79.05,19,Late
+24,Male,Self-employed,Bachelor's,832,43498,43.65,3745,Credit Card,16.77,36,Rent,11,1,36/53,3,4,77.48,30,Current
+24,Female,Retired,Master's,733,31986,22.43,7302,Medical,6.99,36,Rent,5,0,6/56,2,0,78.2,39,Fully Paid
+49,Male,Unemployed,High School,411,52242,24.07,39313,Car,11.19,36,Mortgage,2,0,36/55,2,2,65.69,36,Current
+25,Male,Retired,Bachelor's,716,55661,20.54,13772,Credit Card,19.12,60,Own,3,0,18/53,1,4,16.03,6,Fully Paid
+55,Female,Retired,Master's,375,36631,40.37,41278,Credit Card,24.79,60,Mortgage,8,1,24/56,2,3,24.85,5,Current
+74,Male,Employed,High School,486,83849,23.6,37115,Credit Card,13.48,60,Mortgage,8,0,16/51,1,1,59.14,19,Fully Paid
+43,Male,Self-employed,Master's,618,26935,31.45,48422,Car,9.5,60,Own,2,1,3/54,1,3,68.86,10,Late
+26,Female,Unemployed,Master's,620,71351,17.78,48752,Home,14.59,60,Rent,10,0,41/59,3,1,27.63,37,Late
+49,Female,Self-employed,Master's,750,68390,19.59,3469,Home,19.92,36,Rent,4,0,42/58,2,4,64.12,28,Fully Paid
+32,Male,Employed,Bachelor's,377,47178,20.14,30902,Car,13.61,36,Own,9,2,49/57,0,5,92.09,33,Charged Off
+68,Male,Employed,Master's,786,58195,43.02,5152,Home,14.2,36,Rent,2,2,49/52,1,4,71.16,23,Current
+32,Female,Employed,Master's,340,107042,27.11,24407,Car,8.61,60,Rent,3,1,38/58,0,1,81.67,11,Charged Off
+49,Female,Employed,Bachelor's,504,125104,27.55,31470,Credit Card,13.27,36,Own,10,0,14/54,3,1,69.98,36,Charged Off
+30,Male,Self-employed,Master's,374,87309,42.42,45078,Home,20.17,60,Mortgage,9,1,28/58,0,1,23.65,3,Current
+67,Male,Retired,Master's,734,41350,37.65,29329,Car,17.36,60,Rent,9,1,12/54,3,4,57.1,30,Late
+36,Male,Self-employed,Master's,483,141111,32.34,21310,Car,15.97,60,Own,10,1,23/56,2,3,73.75,2,Late
+20,Female,Employed,Master's,576,65257,19.17,27273,Medical,6.34,60,Mortgage,7,1,33/52,0,2,71.89,19,Fully Paid
+23,Female,Unemployed,Bachelor's,359,52063,31.28,36578,Car,24.19,60,Own,4,1,30/55,1,1,91.05,20,Fully Paid
+23,Female,Self-employed,Master's,800,115141,31.6,45317,Medical,12.98,36,Mortgage,8,1,6/58,2,3,54.71,4,Current
+41,Female,Self-employed,High School,360,50817,39.58,10693,Home,6.93,60,Rent,2,0,32/59,3,1,46.17,11,Fully Paid
+47,Male,Unemployed,Bachelor's,637,83493,19.91,13493,Car,10.71,60,Own,3,2,27/51,1,0,47.99,5,Late
+19,Male,Unemployed,Bachelor's,419,140467,48.47,26082,Credit Card,13.77,60,Rent,4,1,7/52,3,0,16.18,4,Fully Paid
+53,Female,Employed,Bachelor's,645,126789,31.72,21806,Credit Card,14.69,60,Rent,10,2,22/58,3,2,47.76,38,Charged Off
+64,Female,Self-employed,Bachelor's,466,51624,46.64,18157,Medical,22.87,60,Rent,4,1,34/57,0,3,58.57,22,Late
+21,Male,Self-employed,Master's,740,115600,16.5,23478,Medical,10.6,60,Rent,7,1,34/59,1,1,30.7,14,Late
+40,Male,Retired,Bachelor's,710,45578,21.63,16210,Credit Card,15.17,36,Own,10,0,17/58,1,4,17.79,27,Late
+41,Female,Retired,Bachelor's,508,29229,24.18,21712,Home,18.19,60,Rent,2,1,24/54,1,2,49.72,8,Late
+74,Female,Unemployed,High School,832,55769,23.15,19172,Home,14.3,36,Own,6,2,38/55,3,3,62.2,34,Charged Off
+68,Male,Self-employed,High School,437,25564,43.99,22252,Medical,7.5,60,Mortgage,5,1,15/55,0,3,16.24,38,Current
+68,Male,Retired,Bachelor's,773,122996,45.57,37611,Home,19.58,36,Rent,2,0,28/58,1,2,70.14,37,Fully Paid
+45,Female,Self-employed,Bachelor's,526,112744,44.22,30755,Medical,5.17,60,Own,10,2,34/57,3,0,85.18,23,Fully Paid
+43,Male,Unemployed,Bachelor's,692,58707,22.33,11886,Credit Card,6.93,60,Mortgage,5,0,45/55,0,4,88.75,14,Late
+29,Female,Self-employed,Master's,519,87099,40.5,12697,Car,11.77,36,Mortgage,11,1,1/57,3,2,46.49,34,Fully Paid
+64,Male,Unemployed,Bachelor's,627,142204,34.2,7583,Medical,17.83,36,Rent,4,0,15/51,0,3,38.85,37,Charged Off
+21,Female,Self-employed,High School,840,90902,49.16,43148,Credit Card,24.71,36,Own,6,2,45/56,3,0,21.04,17,Late
+65,Female,Employed,Master's,528,123513,28.89,8674,Medical,22.92,60,Rent,8,0,20/51,3,2,59.9,22,Charged Off
+58,Male,Employed,Bachelor's,392,119532,18.65,45523,Credit Card,19.02,60,Mortgage,4,2,42/55,2,4,34.33,0,Late
+32,Female,Employed,High School,330,103596,25.33,31308,Credit Card,21.7,60,Own,11,2,45/56,0,4,86.52,34,Fully Paid
+49,Female,Self-employed,High School,701,109211,33.44,37786,Credit Card,18.28,36,Own,4,0,19/55,3,5,67.99,1,Current
+44,Male,Employed,Master's,365,55105,42.96,23661,Credit Card,5.01,60,Rent,2,1,41/51,2,3,68.75,21,Late
+68,Male,Retired,Master's,510,80765,29.46,43962,Credit Card,5.28,60,Own,2,1,10/56,1,4,83.03,33,Fully Paid
+63,Male,Unemployed,High School,491,114885,21.22,38660,Home,19.23,36,Mortgage,7,1,12/53,1,0,14.92,2,Current
+23,Male,Self-employed,High School,696,52770,31.94,22326,Home,19.79,36,Own,8,1,10/57,2,1,19.9,25,Late
+18,Male,Unemployed,High School,366,86660,43.02,20902,Credit Card,23.97,36,Own,4,2,40/55,1,3,72.69,33,Late
+49,Female,Retired,Bachelor's,349,57723,36.76,34352,Home,11.34,60,Mortgage,7,0,32/58,1,2,23.54,32,Fully Paid
+35,Female,Employed,Master's,402,133440,38.57,27472,Car,16.62,60,Own,4,2,49/55,2,3,58.4,7,Charged Off
+36,Female,Self-employed,Bachelor's,510,29284,48.8,36645,Medical,11.65,60,Mortgage,6,2,49/56,0,5,36.4,9,Late
+36,Male,Self-employed,Master's,614,88789,24.05,13147,Car,24.84,36,Rent,7,1,46/58,2,3,53.19,14,Fully Paid
+60,Male,Retired,Master's,486,33759,38.1,13865,Medical,17.07,60,Own,8,0,26/55,1,1,34.02,25,Late
+53,Female,Self-employed,Master's,517,146064,32.06,8833,Home,19.13,36,Rent,9,1,7/59,2,4,56.38,33,Fully Paid
+42,Male,Employed,Bachelor's,807,45241,18.63,44412,Car,9.12,60,Mortgage,5,2,2/51,1,4,89.75,0,Late
+67,Male,Unemployed,Master's,776,37296,47.05,19293,Credit Card,5.56,60,Mortgage,3,1,35/56,1,3,30.73,39,Late
+45,Female,Self-employed,Bachelor's,307,76752,33.13,27551,Medical,24.78,60,Rent,6,1,44/54,3,4,74.7,0,Charged Off
+44,Female,Unemployed,Bachelor's,751,56197,41.48,15473,Medical,10.55,36,Mortgage,4,0,23/51,1,1,35.21,4,Fully Paid
+20,Male,Employed,Bachelor's,571,98776,23.18,41115,Credit Card,13.65,60,Own,6,2,39/57,0,3,16.71,28,Charged Off
+26,Male,Self-employed,Master's,409,27012,43.92,43440,Credit Card,11.63,60,Rent,2,2,41/52,0,4,30.26,15,Late
+18,Female,Self-employed,High School,450,62119,22.04,25365,Car,9.82,36,Rent,8,1,39/58,0,2,13.33,27,Current
+51,Female,Retired,Master's,460,60643,17.61,28466,Car,9.94,60,Mortgage,2,1,26/51,1,4,17.71,32,Current
+36,Female,Unemployed,Master's,431,70997,34.19,33843,Home,15.6,36,Own,3,0,16/52,3,5,31.2,5,Charged Off
+63,Male,Self-employed,Bachelor's,606,103505,36.0,23066,Car,5.49,36,Mortgage,6,2,24/56,3,2,42.22,17,Fully Paid
+48,Female,Employed,Master's,810,82087,34.51,25432,Credit Card,10.42,36,Rent,6,0,8/57,0,4,29.51,7,Fully Paid
+22,Male,Self-employed,Master's,814,148268,15.44,18272,Home,17.96,36,Rent,8,0,15/51,3,5,97.1,3,Current
+51,Female,Retired,Bachelor's,398,65681,28.35,43604,Credit Card,17.93,36,Mortgage,6,0,35/57,2,2,53.12,15,Charged Off
+31,Male,Employed,Bachelor's,849,80530,18.75,44407,Home,24.05,60,Own,9,0,37/56,2,5,42.69,15,Current
+66,Female,Employed,Master's,309,20831,36.62,38228,Home,8.38,60,Mortgage,5,1,42/52,0,0,66.86,5,Late
+18,Female,Self-employed,Bachelor's,646,113430,39.83,9110,Medical,23.62,36,Own,5,2,17/55,3,5,72.82,8,Current
+21,Female,Retired,High School,704,120182,33.84,9003,Medical,18.85,36,Rent,3,1,20/59,0,3,74.83,9,Late
+34,Male,Self-employed,Master's,615,72182,32.71,14537,Car,15.25,60,Rent,5,1,12/55,0,0,19.55,12,Current
+38,Male,Retired,Bachelor's,783,149768,41.72,6060,Medical,20.16,60,Mortgage,5,1,17/56,0,4,35.82,15,Charged Off
+18,Male,Self-employed,High School,694,141446,37.48,30102,Credit Card,18.36,36,Rent,7,1,47/56,0,4,55.14,17,Late
+42,Female,Employed,Master's,818,106756,49.49,16130,Home,8.01,60,Rent,5,1,18/51,0,2,12.16,28,Current
+45,Female,Unemployed,High School,541,92385,32.86,24878,Car,24.71,60,Mortgage,5,0,7/54,2,2,53.82,7,Charged Off
+53,Male,Self-employed,High School,698,40251,17.67,21793,Car,16.82,60,Rent,3,1,17/53,1,5,91.3,17,Charged Off
+64,Male,Self-employed,Master's,839,41260,21.92,31883,Home,20.87,36,Rent,9,0,38/51,2,1,86.89,33,Late
+55,Male,Employed,Bachelor's,837,71581,18.65,42330,Credit Card,22.85,36,Own,3,2,31/57,1,5,72.44,26,Fully Paid
+23,Male,Self-employed,High School,437,99320,40.06,21968,Medical,7.38,36,Own,2,2,9/52,3,2,55.05,25,Current
+64,Female,Retired,Master's,742,31812,39.89,40193,Credit Card,22.9,60,Mortgage,11,0,39/51,3,5,35.04,16,Charged Off
+32,Female,Employed,High School,775,65750,45.89,46745,Home,17.3,36,Own,7,0,33/57,2,2,53.93,36,Charged Off
+18,Male,Retired,Bachelor's,633,145521,21.13,3440,Car,14.38,60,Rent,10,2,5/59,0,0,31.16,34,Late
+69,Female,Employed,Bachelor's,308,101083,26.87,44709,Car,15.9,36,Mortgage,2,0,49/53,0,0,81.64,6,Current
+30,Male,Retired,Bachelor's,429,111105,39.65,9905,Home,14.58,60,Mortgage,2,0,7/54,3,5,24.62,18,Current
+69,Female,Self-employed,Master's,733,149826,24.47,11850,Credit Card,21.85,60,Mortgage,2,2,15/54,0,1,88.56,24,Late
+66,Male,Retired,High School,429,66003,38.19,33389,Car,21.47,36,Own,4,0,40/57,3,3,42.54,29,Current
+65,Male,Unemployed,High School,795,111337,25.97,43180,Home,24.1,36,Mortgage,9,0,5/59,3,3,40.45,25,Late
+32,Female,Self-employed,Bachelor's,481,48873,29.64,18696,Credit Card,22.57,36,Own,11,2,23/53,2,4,81.83,23,Late
+39,Female,Retired,High School,518,119706,44.02,35329,Home,9.63,36,Own,8,0,21/57,2,5,66.29,22,Current
+48,Female,Employed,High School,584,38909,32.57,45443,Home,12.67,60,Mortgage,10,2,43/57,3,4,45.16,8,Current
+55,Female,Employed,Master's,472,53977,45.03,33000,Credit Card,15.45,60,Own,8,1,11/53,2,4,97.48,26,Charged Off
+34,Male,Retired,High School,692,78345,37.14,3114,Medical,22.27,36,Mortgage,2,2,23/52,1,2,72.04,34,Charged Off
+20,Male,Employed,Master's,597,56306,42.65,2930,Credit Card,11.06,36,Rent,4,0,27/58,1,3,84.82,38,Fully Paid
+27,Female,Self-employed,Bachelor's,545,110840,26.29,33429,Medical,7.94,36,Own,5,0,6/55,0,4,33.29,14,Charged Off
+52,Female,Unemployed,Bachelor's,602,20293,48.97,23680,Car,20.3,60,Own,11,0,28/55,0,4,77.97,25,Late
+59,Male,Employed,Master's,331,27132,36.09,19985,Home,17.93,36,Rent,7,1,19/51,2,1,23.85,25,Fully Paid
+36,Male,Retired,Master's,305,48747,21.16,36006,Medical,9.87,60,Own,10,1,2/55,0,5,48.6,26,Late
+19,Female,Retired,High School,664,40972,30.69,20863,Credit Card,17.1,60,Own,5,2,40/59,3,4,41.75,34,Fully Paid
+34,Male,Self-employed,High School,716,80512,15.46,34712,Credit Card,8.25,60,Rent,11,0,12/58,2,1,31.41,5,Charged Off
+34,Female,Employed,Master's,819,144355,32.01,48066,Car,19.56,60,Own,7,1,15/54,2,2,80.02,5,Late
+54,Female,Unemployed,Master's,346,32085,48.77,29734,Home,8.79,36,Rent,2,1,1/53,2,0,52.33,7,Fully Paid
+72,Female,Retired,Bachelor's,576,110068,27.21,33838,Credit Card,7.23,60,Own,8,0,7/58,1,0,66.45,2,Fully Paid
+69,Female,Unemployed,Bachelor's,598,129209,42.34,7525,Car,15.65,60,Mortgage,10,0,4/53,3,3,50.85,26,Current
+37,Female,Unemployed,Master's,431,123288,23.42,31662,Home,13.43,60,Mortgage,9,1,33/59,0,1,43.16,37,Late
+71,Male,Unemployed,Master's,637,48048,48.58,28601,Home,5.72,60,Own,2,0,28/55,3,3,30.07,7,Late
+22,Male,Retired,Bachelor's,796,117003,40.12,7723,Car,12.74,36,Mortgage,6,1,18/57,3,3,23.76,38,Charged Off
+51,Male,Employed,Bachelor's,609,100535,27.92,13745,Car,19.81,60,Mortgage,4,0,5/54,3,2,58.87,29,Late
+65,Female,Employed,Master's,764,47744,34.81,7897,Home,10.38,60,Own,7,2,12/59,3,4,34.38,1,Current
+30,Female,Unemployed,High School,796,121703,36.65,16205,Medical,21.07,36,Own,4,2,10/56,0,5,78.41,22,Fully Paid
+20,Male,Retired,Master's,582,23007,45.03,45414,Credit Card,8.79,36,Mortgage,11,1,12/56,2,4,72.63,17,Late
+45,Male,Self-employed,Master's,736,74640,40.86,7257,Home,23.39,60,Own,8,1,28/52,3,0,46.91,21,Current
+35,Female,Retired,Bachelor's,719,121693,46.49,10432,Medical,23.26,36,Rent,11,0,3/58,1,0,92.23,2,Fully Paid
+51,Female,Unemployed,High School,335,130822,47.34,21572,Credit Card,10.12,36,Rent,10,1,47/51,1,3,74.29,38,Charged Off
+39,Female,Unemployed,High School,384,61870,41.32,7441,Car,17.86,60,Rent,2,2,4/54,1,0,23.0,21,Charged Off
+53,Male,Unemployed,Master's,594,39173,18.62,2684,Car,12.01,60,Rent,8,1,16/52,2,2,40.86,2,Current
+70,Female,Unemployed,Master's,394,62427,28.09,12192,Credit Card,8.21,60,Rent,6,2,31/55,2,3,78.02,24,Late
+57,Female,Employed,High School,419,131759,40.94,47369,Credit Card,17.53,36,Own,9,0,11/51,0,2,27.32,5,Late
+41,Female,Retired,Master's,774,48294,49.01,34940,Home,14.32,36,Own,6,1,44/54,0,0,74.07,33,Fully Paid
+30,Female,Retired,Bachelor's,758,148349,39.2,2753,Medical,24.88,36,Rent,6,0,41/57,3,5,46.22,23,Charged Off
+66,Male,Employed,High School,834,97046,42.23,29677,Home,21.32,36,Rent,5,0,8/54,0,3,53.51,26,Charged Off
+58,Male,Employed,Master's,375,113436,39.89,32802,Medical,22.65,36,Own,7,1,48/53,2,2,76.89,3,Charged Off
+27,Male,Unemployed,Bachelor's,795,146012,30.58,34311,Car,21.36,60,Rent,9,1,22/59,3,3,62.05,21,Late
+63,Female,Employed,Bachelor's,328,129699,41.11,37689,Medical,11.02,60,Own,11,2,44/58,2,0,78.01,35,Charged Off
+51,Male,Self-employed,High School,499,124887,26.95,35854,Credit Card,11.56,36,Rent,8,0,10/57,3,3,54.89,39,Fully Paid
+49,Female,Employed,Bachelor's,682,93351,16.06,23947,Car,14.1,36,Rent,11,2,4/54,1,2,92.1,29,Late
+36,Female,Employed,Bachelor's,410,117875,17.32,6004,Medical,5.17,36,Own,4,0,24/52,3,1,56.94,32,Late
+61,Male,Employed,Bachelor's,810,107555,49.27,17220,Car,11.26,36,Mortgage,7,0,49/52,2,3,98.48,15,Charged Off
+54,Male,Unemployed,Master's,492,25567,46.48,12543,Home,11.24,60,Own,8,1,6/53,3,0,19.08,13,Charged Off
+26,Female,Retired,High School,767,101279,32.56,23955,Medical,6.46,36,Own,6,1,43/52,1,4,34.46,2,Charged Off
+52,Female,Retired,Master's,404,59559,39.57,17709,Medical,16.82,36,Own,10,0,41/53,0,2,26.15,18,Current
+34,Male,Employed,High School,448,35497,22.84,49774,Medical,13.0,36,Mortgage,4,0,33/53,1,2,91.67,10,Late
+43,Male,Retired,High School,429,96736,36.54,49333,Medical,10.22,36,Own,2,2,43/51,3,5,12.23,5,Current
+59,Female,Unemployed,Bachelor's,487,57331,47.83,44279,Home,22.72,60,Rent,3,0,4/54,3,0,74.65,2,Late
+74,Male,Unemployed,Bachelor's,666,108894,41.74,28714,Medical,11.01,60,Rent,10,1,13/55,1,2,28.9,28,Charged Off
+28,Male,Unemployed,High School,494,142948,28.35,48378,Medical,14.52,60,Rent,5,1,8/56,2,1,51.94,2,Fully Paid
+34,Female,Employed,High School,763,112504,19.13,35090,Medical,13.23,36,Own,11,1,39/57,3,0,45.14,24,Fully Paid
+32,Male,Retired,Bachelor's,322,102557,40.1,48405,Medical,6.04,60,Rent,11,1,33/56,3,0,13.44,0,Current
+71,Female,Employed,High School,374,97318,44.63,4042,Medical,10.56,36,Rent,6,2,31/52,0,4,26.35,24,Fully Paid
+60,Male,Self-employed,High School,533,98377,30.24,13392,Car,21.19,60,Mortgage,5,2,22/55,3,1,50.44,10,Late
+74,Female,Employed,Master's,337,102000,17.45,23264,Medical,18.15,60,Rent,4,1,13/53,0,1,66.06,10,Current
+72,Female,Employed,High School,782,45718,28.05,15012,Car,7.61,60,Own,2,0,47/56,1,2,89.36,24,Fully Paid
+47,Female,Unemployed,Bachelor's,709,137023,32.88,33410,Medical,24.3,36,Own,5,2,2/57,0,0,59.4,27,Late
+73,Female,Unemployed,Bachelor's,585,148800,18.24,47592,Car,12.39,36,Own,5,0,48/53,2,0,42.35,9,Charged Off
+29,Male,Employed,Master's,651,122951,26.91,43363,Car,21.66,60,Mortgage,8,2,24/55,1,4,33.93,39,Fully Paid
+25,Female,Unemployed,Bachelor's,385,130171,29.3,5771,Home,10.58,60,Rent,4,0,32/54,3,0,40.58,4,Charged Off
+37,Male,Employed,Bachelor's,566,58025,47.38,38182,Medical,12.16,60,Own,6,0,48/53,0,4,66.58,9,Charged Off
+60,Male,Retired,High School,389,31998,41.67,39217,Credit Card,19.72,60,Mortgage,10,0,29/59,1,3,55.61,12,Late
+23,Male,Self-employed,Master's,786,124194,26.16,22732,Medical,17.36,60,Rent,4,2,39/55,0,1,30.47,11,Late
+67,Male,Retired,Master's,799,46572,25.11,17863,Medical,17.23,60,Own,11,1,5/56,1,0,70.19,36,Charged Off
+53,Male,Self-employed,High School,409,139673,39.2,39248,Medical,14.83,36,Mortgage,3,1,18/52,2,3,98.67,28,Current
+29,Male,Employed,Bachelor's,843,67262,26.18,27143,Credit Card,17.5,36,Own,8,2,16/52,2,4,21.77,5,Late
+73,Female,Employed,Bachelor's,827,76841,43.63,39427,Credit Card,19.81,60,Rent,3,1,22/52,3,0,68.08,19,Late
+46,Female,Self-employed,High School,548,111027,17.33,26974,Medical,5.05,36,Own,2,1,14/54,1,2,19.66,22,Current
+27,Female,Self-employed,Master's,839,87718,34.87,36044,Medical,8.51,60,Own,2,1,27/53,3,3,66.66,30,Current
+53,Male,Retired,Bachelor's,346,22962,28.13,45125,Medical,13.41,60,Rent,7,2,36/52,2,3,81.38,1,Current
+21,Male,Self-employed,High School,788,113942,24.04,32204,Credit Card,18.46,60,Mortgage,2,1,39/58,1,5,73.03,23,Fully Paid
+59,Male,Retired,High School,356,92824,21.42,32515,Car,9.03,36,Mortgage,11,1,43/55,0,2,12.42,24,Charged Off
+74,Male,Retired,Master's,777,60056,34.22,11443,Home,18.45,60,Rent,4,1,35/54,3,1,58.36,15,Fully Paid
+35,Female,Retired,Master's,626,140927,21.78,27423,Home,8.12,36,Rent,2,1,33/56,1,0,47.29,19,Late
+56,Male,Retired,Master's,796,124722,19.48,13447,Credit Card,14.57,60,Mortgage,5,0,12/55,2,1,19.87,28,Fully Paid
+26,Female,Self-employed,High School,684,43794,48.22,13078,Credit Card,21.18,36,Own,7,1,34/52,0,4,48.8,38,Fully Paid
+67,Female,Employed,Master's,585,134603,37.35,6179,Home,12.28,36,Rent,9,1,14/59,2,0,75.67,17,Late
+46,Female,Unemployed,High School,311,140854,24.27,42333,Car,14.68,60,Mortgage,4,2,33/54,0,0,71.11,36,Fully Paid
+54,Female,Retired,Master's,463,31296,41.4,16269,Medical,13.83,60,Rent,10,1,34/56,2,1,68.35,8,Late
+36,Male,Self-employed,High School,651,144485,30.41,26785,Credit Card,9.43,60,Mortgage,7,1,32/59,1,5,86.58,28,Current
+61,Female,Retired,Master's,673,146012,39.4,44601,Home,21.65,36,Rent,5,1,3/52,1,3,16.6,2,Charged Off
+22,Male,Employed,High School,656,37659,32.11,9528,Car,11.24,60,Mortgage,2,2,41/58,2,5,32.41,0,Late
+65,Female,Retired,Bachelor's,510,49617,23.49,14467,Medical,11.72,36,Mortgage,10,2,9/57,3,5,39.14,19,Fully Paid
+62,Male,Employed,High School,624,49168,45.92,29629,Car,16.7,36,Own,6,2,22/59,0,4,13.67,0,Fully Paid
+36,Male,Self-employed,Bachelor's,465,74215,28.91,14470,Medical,14.08,60,Own,2,1,43/58,1,2,37.3,36,Late
+37,Male,Retired,Bachelor's,643,98545,26.44,8054,Car,11.24,60,Rent,2,0,42/55,2,5,57.85,8,Current
+38,Female,Retired,Master's,604,142335,38.09,30752,Car,14.91,60,Mortgage,7,1,43/51,1,4,88.18,1,Fully Paid
+48,Female,Employed,High School,691,63292,26.23,23692,Home,19.94,60,Mortgage,9,0,1/54,2,4,65.88,22,Current
+55,Male,Employed,Bachelor's,808,48010,20.27,33979,Credit Card,11.71,60,Own,8,1,7/55,0,1,16.97,8,Charged Off
+70,Female,Self-employed,Master's,844,72502,36.57,22923,Car,24.1,36,Mortgage,3,0,42/57,3,4,87.15,19,Fully Paid
+31,Female,Unemployed,High School,677,72780,34.11,47469,Credit Card,10.64,60,Mortgage,4,0,26/51,1,5,86.33,4,Current
+32,Female,Retired,Bachelor's,813,42830,28.3,24423,Credit Card,11.68,36,Own,5,0,6/56,0,0,77.12,28,Charged Off
+52,Female,Retired,High School,629,35140,43.24,23527,Home,21.1,36,Rent,4,0,40/54,3,5,23.3,1,Current
+71,Male,Unemployed,Bachelor's,664,78438,45.17,10722,Credit Card,19.74,60,Mortgage,2,0,31/54,2,4,65.13,15,Current
+60,Female,Retired,Bachelor's,765,135866,37.42,23892,Medical,8.75,36,Own,2,2,21/59,2,0,11.55,33,Fully Paid
+56,Female,Retired,High School,568,113983,44.13,24172,Home,22.44,60,Own,5,1,8/59,0,0,23.55,36,Charged Off
+61,Female,Unemployed,Bachelor's,340,104918,32.66,8416,Credit Card,17.97,60,Rent,11,2,32/58,3,3,95.96,20,Fully Paid
+70,Female,Employed,Master's,651,69873,44.93,35653,Car,12.48,60,Rent,11,1,37/57,2,3,15.9,12,Charged Off
+38,Male,Retired,High School,472,46386,41.7,25212,Credit Card,11.48,60,Mortgage,7,1,46/51,3,2,84.01,27,Late
+22,Male,Employed,High School,815,46221,27.01,29590,Credit Card,18.95,60,Mortgage,6,0,1/55,1,3,43.81,18,Current
+34,Male,Unemployed,Bachelor's,839,25408,17.78,29807,Credit Card,23.33,36,Rent,2,1,38/58,0,3,43.11,7,Charged Off
+38,Female,Employed,Bachelor's,783,42126,15.86,43353,Car,24.61,36,Rent,9,0,48/54,2,0,61.38,22,Current
+72,Female,Employed,High School,736,40234,15.31,29739,Credit Card,16.26,36,Own,9,2,11/55,0,3,54.23,34,Current
+70,Male,Unemployed,Master's,651,53369,35.56,35348,Credit Card,22.73,36,Rent,2,0,7/55,3,3,12.12,15,Fully Paid
+56,Female,Unemployed,High School,797,114445,21.92,41703,Medical,8.14,36,Rent,2,1,31/54,3,2,93.74,39,Fully Paid
+52,Female,Employed,Master's,602,45489,21.6,22781,Credit Card,9.13,60,Rent,4,2,7/55,2,4,32.74,31,Fully Paid
+72,Male,Employed,High School,519,79341,38.81,41234,Credit Card,24.74,36,Own,2,1,6/58,1,4,10.17,34,Current
+37,Female,Employed,Master's,490,100950,16.07,25359,Medical,24.75,36,Own,5,1,39/59,0,0,93.83,16,Fully Paid
+48,Female,Employed,Master's,360,81836,19.13,21685,Car,8.16,36,Mortgage,11,1,28/52,2,3,91.74,16,Late
+27,Male,Retired,Bachelor's,589,44788,49.86,20235,Car,17.6,36,Own,8,1,33/54,1,5,60.5,11,Current
+36,Female,Unemployed,High School,308,80034,34.52,2763,Credit Card,22.64,60,Mortgage,7,2,46/54,0,4,15.01,0,Fully Paid
+36,Male,Employed,Master's,414,126227,37.28,36397,Car,21.29,36,Own,11,0,49/54,2,5,46.3,20,Charged Off
+44,Male,Employed,High School,384,106060,44.96,14010,Medical,6.25,36,Mortgage,5,1,16/56,0,3,28.95,3,Current
+71,Female,Self-employed,Bachelor's,823,101476,34.69,4854,Credit Card,19.39,36,Rent,10,2,37/57,2,4,92.32,23,Charged Off
+51,Male,Retired,Bachelor's,571,117766,15.24,3920,Car,19.16,60,Mortgage,8,0,1/53,2,0,87.93,17,Current
+57,Female,Retired,High School,463,93741,23.67,9689,Home,12.71,36,Mortgage,5,1,2/54,2,1,81.88,7,Late
+63,Female,Retired,Master's,510,79129,43.35,13381,Medical,22.46,60,Rent,7,1,44/57,2,0,51.46,5,Late
+28,Female,Self-employed,Bachelor's,402,75326,17.25,13975,Car,14.02,36,Mortgage,3,1,19/54,2,1,68.55,10,Fully Paid
+26,Male,Employed,Bachelor's,813,41249,42.56,49426,Home,11.86,60,Own,4,0,5/54,2,4,48.96,32,Late
+27,Male,Retired,Bachelor's,810,46829,42.38,48296,Home,17.06,60,Rent,2,2,6/56,2,2,13.41,29,Late
+24,Male,Retired,High School,743,147074,29.1,41762,Car,18.5,60,Own,2,2,44/52,1,2,82.28,17,Current
+65,Male,Self-employed,Bachelor's,609,52382,30.58,21712,Car,22.82,60,Own,6,2,19/58,0,4,36.17,14,Fully Paid
+36,Male,Self-employed,High School,655,127733,46.08,45003,Credit Card,18.88,36,Rent,11,0,7/52,0,5,86.78,4,Current
+37,Female,Retired,Bachelor's,629,144968,21.99,17213,Medical,10.82,60,Rent,8,0,29/53,2,2,78.72,23,Late
+68,Female,Self-employed,High School,518,39052,47.77,41831,Credit Card,13.77,60,Rent,8,2,42/57,3,0,44.85,30,Fully Paid
+35,Female,Self-employed,Master's,546,58106,48.18,43039,Medical,9.18,36,Rent,6,0,25/52,3,4,87.67,7,Current
+51,Male,Retired,Master's,490,111590,37.08,10656,Car,16.77,36,Own,8,2,42/59,3,3,12.31,18,Fully Paid
+50,Female,Unemployed,Bachelor's,705,89293,30.36,48461,Medical,22.84,36,Mortgage,5,1,33/58,0,2,49.89,28,Current
+36,Female,Unemployed,Master's,786,39610,26.91,43110,Home,5.07,60,Mortgage,8,1,49/55,3,4,90.4,27,Fully Paid
+38,Male,Self-employed,High School,586,80632,46.54,39164,Medical,15.36,60,Own,2,2,7/54,3,1,98.64,26,Fully Paid
+43,Male,Unemployed,Master's,412,103945,27.55,5430,Credit Card,16.22,60,Own,11,0,8/58,2,5,51.62,2,Late
+49,Male,Employed,High School,746,30020,23.73,26066,Credit Card,6.9,36,Rent,10,1,28/59,2,0,77.61,19,Charged Off
+47,Female,Employed,Bachelor's,330,109489,18.74,9525,Home,8.87,60,Own,2,0,15/57,0,0,42.11,14,Fully Paid
+29,Female,Self-employed,High School,412,47223,22.49,26278,Home,10.31,60,Mortgage,11,2,29/58,0,0,30.7,33,Late
+43,Male,Employed,Master's,731,44231,17.54,31770,Credit Card,17.45,36,Own,4,2,33/57,2,1,11.56,3,Fully Paid
+38,Female,Unemployed,High School,499,108266,18.69,17242,Home,17.2,36,Own,2,1,12/56,1,0,50.1,37,Charged Off
+51,Male,Unemployed,High School,656,91038,36.07,43308,Home,14.99,60,Own,7,2,24/55,0,1,24.18,5,Current
+70,Female,Employed,High School,824,95803,39.04,4554,Medical,20.87,60,Mortgage,6,2,41/58,0,2,66.52,10,Charged Off
+36,Male,Unemployed,High School,743,37522,21.21,3543,Car,7.28,60,Own,2,0,34/59,3,4,45.86,21,Charged Off
+74,Female,Employed,High School,523,148418,21.3,23816,Medical,23.84,36,Mortgage,8,1,19/55,3,0,99.03,3,Fully Paid
+34,Male,Unemployed,Bachelor's,564,93975,39.45,38326,Credit Card,13.94,60,Own,10,1,39/54,1,2,61.49,18,Charged Off
+30,Female,Employed,Master's,383,58104,32.3,43938,Medical,7.62,36,Own,8,0,44/57,1,5,74.22,10,Late
+45,Male,Self-employed,High School,715,85394,39.44,21089,Home,11.67,36,Own,5,0,47/55,2,0,39.46,30,Fully Paid
+56,Female,Unemployed,Master's,408,107508,38.44,19470,Home,7.17,60,Rent,5,0,45/56,2,0,19.99,32,Current
+68,Male,Self-employed,High School,323,77045,25.52,46857,Car,23.03,60,Own,11,1,21/52,1,5,46.27,32,Charged Off
+40,Male,Unemployed,Master's,348,92132,43.46,2112,Home,19.82,36,Own,6,1,34/56,0,2,53.79,17,Fully Paid
+69,Male,Retired,Master's,748,23614,33.93,15850,Home,18.33,36,Own,4,1,40/54,2,2,74.49,38,Late
+42,Male,Self-employed,Bachelor's,507,20475,40.02,19109,Car,9.7,60,Own,4,2,46/54,1,0,91.38,29,Current
+74,Male,Self-employed,Master's,798,47515,28.59,14675,Credit Card,7.73,60,Rent,10,1,38/51,3,1,52.77,13,Charged Off
+18,Male,Employed,Master's,348,140319,44.5,42143,Car,23.28,60,Mortgage,2,2,42/51,0,4,41.41,0,Charged Off
+73,Female,Unemployed,Master's,747,35630,41.4,20050,Medical,21.49,60,Rent,5,2,40/59,2,3,52.35,8,Current
+55,Male,Unemployed,Bachelor's,572,101044,32.33,5008,Credit Card,21.39,60,Mortgage,6,2,32/57,2,5,60.0,32,Charged Off
+70,Male,Self-employed,Bachelor's,509,104171,16.9,16302,Car,14.88,36,Rent,10,0,12/52,0,2,97.46,16,Late
+21,Male,Self-employed,Master's,333,55897,28.29,13673,Car,6.59,36,Rent,11,2,48/56,3,3,22.65,13,Late
+41,Male,Retired,Bachelor's,308,24743,31.33,4004,Home,20.65,36,Rent,9,0,3/51,2,0,10.88,5,Charged Off
+45,Male,Retired,Master's,630,87329,18.58,28289,Medical,12.27,60,Rent,10,2,19/59,0,5,25.26,33,Fully Paid
+74,Male,Unemployed,High School,567,87882,15.51,18245,Credit Card,6.85,36,Rent,4,1,15/52,2,2,12.78,6,Current
+25,Female,Self-employed,High School,393,40384,33.55,40974,Credit Card,16.78,36,Mortgage,5,0,49/59,1,2,23.85,27,Late
+74,Male,Retired,Bachelor's,364,110116,33.65,49134,Credit Card,18.85,60,Mortgage,5,0,1/57,1,2,15.55,29,Charged Off
+38,Male,Retired,High School,761,69718,39.14,13695,Car,15.19,36,Rent,7,1,4/57,3,2,24.28,20,Charged Off
+56,Female,Retired,Master's,600,143681,18.32,27938,Medical,12.45,60,Mortgage,11,0,9/57,0,5,73.83,33,Charged Off
+35,Male,Employed,Bachelor's,750,96183,29.24,46499,Car,18.39,36,Mortgage,8,1,12/54,1,4,70.04,6,Fully Paid
+29,Male,Unemployed,High School,751,67544,22.91,14945,Home,21.6,60,Rent,9,0,12/54,3,2,23.08,30,Late
+68,Male,Unemployed,Master's,842,122894,40.01,12292,Home,6.24,60,Own,6,2,2/53,3,1,12.0,36,Late
+65,Male,Unemployed,Bachelor's,542,21720,25.08,43210,Home,21.69,36,Own,10,0,34/58,0,3,35.03,39,Charged Off
+51,Male,Unemployed,High School,835,65549,41.55,30865,Credit Card,19.02,36,Rent,5,0,33/56,1,0,52.78,18,Late
+51,Female,Self-employed,Bachelor's,378,122796,34.86,38296,Home,21.79,60,Rent,3,1,37/53,1,4,65.8,8,Fully Paid
+56,Female,Unemployed,Master's,621,133645,40.35,4920,Credit Card,13.23,60,Own,7,2,47/55,2,4,58.58,11,Late
+74,Female,Unemployed,Bachelor's,682,123395,37.41,47728,Car,11.69,36,Own,10,1,21/56,2,0,72.55,17,Fully Paid
+67,Female,Retired,Master's,672,104909,33.38,24572,Credit Card,23.87,36,Mortgage,6,0,44/59,3,3,31.56,14,Late
+41,Male,Unemployed,Bachelor's,435,50970,31.42,31719,Medical,15.8,60,Own,5,0,29/59,0,3,78.52,2,Fully Paid
+23,Male,Unemployed,High School,624,147209,40.0,21687,Medical,11.97,60,Own,10,1,47/52,2,0,43.94,5,Fully Paid
+24,Female,Employed,Master's,406,90902,25.51,5250,Home,9.96,60,Mortgage,6,2,5/58,1,1,85.04,21,Current
+50,Male,Retired,Bachelor's,484,103811,48.62,23901,Home,21.19,60,Rent,8,1,16/51,0,1,43.96,14,Charged Off
+57,Female,Unemployed,Master's,740,122424,17.07,36954,Medical,8.42,36,Rent,5,2,3/51,2,3,51.66,35,Fully Paid
+65,Male,Unemployed,Master's,429,44086,47.59,17695,Home,21.2,60,Own,8,2,30/51,1,0,12.39,29,Fully Paid
+73,Male,Employed,Master's,646,21067,48.61,21771,Medical,13.66,36,Own,9,2,5/58,1,0,18.3,13,Fully Paid
+27,Male,Unemployed,High School,485,148606,22.46,28523,Credit Card,17.08,36,Own,10,2,14/52,1,5,84.54,4,Fully Paid
+62,Female,Employed,Bachelor's,752,45716,30.82,32005,Medical,17.11,36,Rent,11,2,33/51,0,2,54.15,38,Fully Paid
+34,Male,Employed,High School,507,25331,32.32,26494,Credit Card,6.21,36,Rent,11,2,30/55,2,0,43.55,27,Late
+24,Male,Employed,Master's,397,103189,27.54,22484,Credit Card,24.56,60,Mortgage,2,2,41/58,0,0,52.44,15,Late
+42,Male,Retired,Bachelor's,461,27563,46.34,43941,Home,12.82,60,Rent,9,0,15/56,3,5,36.69,27,Current
+65,Female,Employed,Master's,444,108308,39.19,10167,Home,22.15,36,Mortgage,8,1,10/55,2,0,17.66,8,Late
+24,Female,Self-employed,Master's,722,60895,39.38,42767,Medical,6.29,36,Own,3,2,26/59,2,1,99.2,25,Charged Off
+37,Female,Employed,Bachelor's,699,26189,20.83,25714,Medical,18.53,60,Rent,6,2,33/57,3,1,81.3,14,Late
+58,Male,Retired,Master's,459,79566,41.92,49179,Medical,16.89,60,Rent,6,2,22/54,1,5,78.47,16,Fully Paid
+19,Female,Self-employed,Master's,816,47670,36.69,20235,Medical,5.75,60,Rent,7,1,2/51,1,5,11.24,3,Current
+31,Female,Self-employed,Master's,522,43019,35.75,7895,Car,13.27,60,Rent,5,0,25/52,2,2,42.92,13,Current
+44,Female,Retired,High School,740,22835,17.62,34424,Medical,10.67,60,Own,9,2,20/54,2,3,46.29,7,Charged Off
+67,Male,Unemployed,High School,310,122647,20.64,48709,Car,23.11,36,Mortgage,5,2,14/53,0,1,85.16,3,Current
+31,Female,Unemployed,Bachelor's,734,60953,39.9,40781,Car,23.17,60,Mortgage,2,0,48/56,2,1,66.01,5,Charged Off
+18,Male,Unemployed,Bachelor's,717,99221,33.14,35929,Car,8.22,36,Mortgage,11,2,14/59,3,0,40.65,17,Late
+18,Female,Employed,Master's,637,131615,21.88,29600,Car,7.77,36,Own,8,2,30/57,2,5,69.39,13,Fully Paid
+22,Male,Retired,Master's,371,40115,19.08,40094,Medical,19.15,36,Mortgage,8,1,33/57,1,5,24.17,17,Fully Paid
+70,Male,Employed,High School,655,58703,19.71,9022,Credit Card,17.46,60,Rent,5,1,41/56,1,3,25.44,1,Late
+26,Female,Self-employed,High School,764,79792,33.65,37141,Home,11.32,60,Rent,10,0,12/55,3,3,95.32,36,Current
+20,Male,Retired,High School,433,137556,24.79,15772,Credit Card,23.41,60,Rent,10,0,13/58,0,5,95.33,38,Late
+69,Male,Employed,Bachelor's,822,116412,30.84,43668,Home,22.63,36,Own,9,2,47/53,0,2,44.25,25,Current
+67,Male,Unemployed,Master's,306,26088,40.86,6002,Credit Card,23.58,60,Own,9,0,43/58,1,0,79.65,23,Current
+41,Female,Self-employed,Master's,598,38301,36.06,16231,Credit Card,8.45,60,Own,3,1,37/54,2,1,80.93,21,Current
+69,Female,Self-employed,Master's,528,117056,28.71,42941,Credit Card,5.21,36,Mortgage,7,2,39/54,0,0,28.74,13,Charged Off
+19,Female,Self-employed,High School,417,101986,42.21,23471,Medical,14.15,36,Own,8,1,39/51,3,0,44.47,37,Fully Paid
+42,Male,Unemployed,High School,818,108446,32.97,23177,Home,7.46,60,Mortgage,4,2,29/58,1,0,70.56,7,Charged Off
+26,Female,Self-employed,Bachelor's,548,109297,47.37,47779,Home,17.75,36,Own,7,1,4/59,1,4,81.44,19,Fully Paid
+36,Male,Unemployed,High School,376,132276,41.97,29413,Credit Card,9.42,36,Rent,9,2,8/52,0,5,87.06,37,Charged Off
+19,Female,Self-employed,Master's,344,35956,34.13,10761,Credit Card,8.57,36,Own,4,0,38/59,2,4,92.83,6,Late
+38,Male,Employed,Master's,427,46013,48.37,25280,Home,19.85,36,Rent,2,2,15/57,3,5,65.92,15,Late
+33,Female,Retired,High School,307,52824,48.65,32474,Medical,6.63,36,Mortgage,2,1,9/53,2,4,32.79,24,Charged Off
+25,Male,Unemployed,Bachelor's,764,99838,40.95,16852,Medical,6.13,36,Mortgage,9,2,20/54,0,0,20.67,37,Current
+28,Male,Employed,High School,408,89820,23.81,39560,Medical,13.37,60,Mortgage,2,1,20/54,1,1,18.11,12,Fully Paid
+57,Female,Self-employed,Bachelor's,613,50024,31.77,15020,Medical,21.85,60,Rent,10,1,24/58,2,1,21.4,30,Fully Paid
+64,Female,Retired,Master's,495,143316,39.35,23806,Car,23.96,60,Rent,2,0,25/58,2,1,13.56,1,Fully Paid
+35,Male,Employed,High School,322,28643,24.29,47225,Medical,11.16,36,Rent,11,0,39/53,0,5,57.74,15,Current
+27,Male,Self-employed,High School,569,34142,46.93,23972,Car,20.16,60,Own,10,1,33/53,1,0,39.37,18,Current
+33,Female,Employed,Bachelor's,735,138478,47.07,43354,Car,7.42,36,Own,7,1,7/59,3,5,94.17,2,Fully Paid
+73,Female,Unemployed,Master's,650,78901,47.69,42728,Credit Card,14.54,36,Mortgage,11,0,38/51,1,3,18.98,20,Late
+52,Male,Retired,Master's,691,115802,44.39,39846,Home,16.47,36,Rent,10,0,3/56,3,4,86.23,29,Charged Off
+42,Male,Employed,Bachelor's,409,81857,25.14,24166,Medical,7.23,60,Own,11,0,38/58,0,4,57.35,13,Charged Off
+25,Male,Employed,Master's,417,70156,27.77,20083,Home,8.97,36,Rent,10,1,42/54,1,5,27.54,37,Current
+41,Female,Self-employed,Bachelor's,739,74890,35.34,3686,Medical,21.4,36,Own,4,0,5/55,0,3,71.42,26,Late
+32,Male,Employed,Master's,630,104765,19.81,31929,Medical,19.05,36,Rent,9,1,25/58,0,2,70.58,34,Late
+54,Male,Unemployed,Master's,654,115560,17.46,23162,Car,8.65,36,Rent,8,0,42/58,2,1,38.66,18,Current
+54,Male,Self-employed,High School,521,40854,26.97,24219,Credit Card,18.31,60,Mortgage,5,2,13/54,0,0,24.47,15,Late
+65,Male,Employed,High School,552,144782,26.83,33563,Credit Card,18.78,60,Rent,10,1,7/52,2,5,87.54,15,Current
+61,Male,Unemployed,Bachelor's,505,26282,16.95,45316,Car,22.99,60,Own,6,1,25/51,3,2,15.55,33,Current
+47,Male,Unemployed,Bachelor's,828,124097,29.75,23806,Credit Card,17.79,36,Mortgage,2,0,22/54,2,2,21.82,37,Charged Off
+68,Female,Retired,Master's,626,148133,18.01,34923,Credit Card,13.3,60,Own,3,1,30/52,0,3,55.43,2,Charged Off
+33,Male,Employed,Bachelor's,490,147707,43.76,17999,Car,15.37,36,Mortgage,2,1,43/58,0,0,25.39,38,Current
+60,Female,Unemployed,Bachelor's,787,91124,41.25,6606,Car,22.28,60,Mortgage,9,0,1/57,2,0,86.61,27,Fully Paid
+72,Male,Employed,Master's,550,110371,16.57,19363,Car,14.46,36,Rent,10,1,27/53,0,2,29.27,13,Late
+72,Female,Employed,Master's,753,67192,17.69,15888,Credit Card,7.55,60,Mortgage,5,1,7/54,2,1,22.4,26,Late
+32,Male,Employed,High School,790,48566,29.11,37221,Credit Card,21.66,60,Rent,2,1,1/51,2,2,55.94,33,Fully Paid
+44,Male,Retired,High School,543,112567,20.94,13895,Home,5.82,60,Own,4,1,20/58,3,3,99.97,14,Fully Paid
+64,Female,Employed,Master's,634,25447,15.31,41722,Home,13.09,60,Mortgage,4,0,18/59,0,0,49.5,23,Charged Off
+49,Female,Retired,High School,641,79738,28.14,28995,Car,24.87,36,Own,4,1,28/54,2,1,34.24,8,Fully Paid
+31,Male,Unemployed,Bachelor's,642,137417,35.13,9438,Credit Card,23.78,60,Rent,7,0,35/55,3,5,52.11,23,Current
+44,Female,Retired,Master's,835,26424,35.19,36909,Car,14.23,36,Own,9,0,8/52,0,1,12.84,22,Fully Paid
+64,Male,Retired,Bachelor's,437,53164,35.87,13522,Credit Card,20.8,36,Rent,8,0,13/57,1,3,14.5,38,Current
+34,Female,Self-employed,Master's,618,71386,48.26,43634,Medical,13.05,36,Own,4,0,49/57,2,4,28.28,0,Charged Off
+42,Female,Self-employed,High School,647,84478,45.79,33898,Credit Card,9.83,36,Mortgage,8,1,22/59,0,0,80.71,28,Current
+41,Male,Unemployed,Master's,435,104790,28.11,46902,Credit Card,18.21,36,Own,10,2,38/58,2,0,46.05,20,Late
+32,Female,Retired,High School,631,50498,38.66,9808,Home,20.18,36,Mortgage,7,1,21/51,0,2,43.44,3,Late
+28,Female,Employed,High School,702,133387,15.92,13132,Credit Card,19.47,36,Mortgage,10,0,7/51,2,4,71.24,26,Charged Off
+27,Female,Retired,Bachelor's,502,49740,25.73,26543,Credit Card,8.28,60,Rent,4,2,25/54,3,5,51.2,13,Late
+62,Male,Employed,High School,553,111927,41.05,29865,Home,14.22,36,Own,11,1,26/57,1,5,47.29,3,Charged Off
+69,Female,Retired,Master's,729,33755,15.02,18686,Credit Card,10.42,36,Rent,4,0,22/59,2,2,42.62,21,Current
+72,Male,Retired,Master's,399,60004,48.94,24933,Home,15.84,60,Own,11,1,36/57,2,2,66.61,26,Fully Paid
+71,Female,Self-employed,Master's,553,36670,46.16,5859,Medical,21.41,60,Mortgage,2,2,44/53,3,5,63.85,9,Charged Off
+69,Female,Unemployed,High School,472,94069,23.81,37188,Home,9.47,36,Rent,5,1,1/58,2,3,19.41,9,Fully Paid
+20,Female,Employed,Master's,732,134899,48.43,11444,Car,10.04,60,Own,7,0,20/55,0,0,64.21,24,Charged Off
+65,Female,Employed,High School,765,128637,38.07,30210,Medical,8.23,36,Own,10,0,5/52,2,1,33.06,1,Late
+57,Female,Retired,Master's,492,50626,48.5,34772,Car,10.73,60,Own,9,0,6/53,2,3,23.4,8,Fully Paid
+41,Female,Self-employed,Master's,338,130296,27.22,30575,Credit Card,11.59,36,Rent,2,1,17/59,3,4,22.24,23,Fully Paid
+20,Male,Unemployed,Bachelor's,595,52390,32.86,40115,Car,22.1,60,Mortgage,5,2,14/53,2,1,28.67,18,Late
+54,Female,Employed,Master's,635,29040,27.46,15982,Car,7.12,36,Rent,3,1,45/58,3,0,66.64,24,Current
+50,Female,Retired,Bachelor's,501,31027,47.74,40459,Credit Card,23.11,36,Own,6,0,44/53,2,3,41.83,22,Charged Off
+70,Female,Employed,Bachelor's,537,137097,41.3,27467,Medical,13.29,60,Own,5,0,39/53,2,0,97.09,11,Fully Paid
+72,Female,Self-employed,Bachelor's,663,25700,29.77,2964,Car,7.33,60,Rent,10,2,7/56,1,4,78.69,3,Late
+40,Male,Retired,Master's,556,115799,45.89,17539,Credit Card,18.15,60,Mortgage,7,1,29/59,0,5,66.89,9,Charged Off
+42,Male,Unemployed,High School,444,85734,33.86,24064,Credit Card,23.9,36,Mortgage,10,1,43/52,1,5,90.13,3,Charged Off
+37,Female,Self-employed,Bachelor's,665,93599,31.34,10472,Medical,5.65,60,Own,7,2,42/51,1,3,27.19,12,Charged Off
+21,Female,Employed,Bachelor's,694,137550,30.81,43620,Medical,5.66,60,Rent,9,1,38/56,0,3,21.25,23,Late
+56,Female,Unemployed,Bachelor's,718,46939,29.55,8793,Home,14.51,36,Rent,8,1,5/52,0,2,18.88,20,Late
+36,Male,Self-employed,High School,618,20355,36.98,45576,Credit Card,10.48,60,Own,7,1,43/54,1,2,37.82,10,Charged Off
+34,Female,Retired,High School,422,20698,25.42,47221,Credit Card,22.31,60,Mortgage,11,1,9/57,0,2,55.41,11,Late
+54,Male,Employed,High School,422,76985,23.92,18449,Car,20.28,60,Rent,5,1,6/56,2,5,22.14,11,Late
+52,Female,Unemployed,Master's,540,116970,29.85,15154,Car,20.58,60,Rent,5,0,36/53,0,2,57.58,38,Late
+58,Male,Employed,Bachelor's,524,56193,47.1,38395,Medical,16.64,36,Mortgage,10,2,41/52,2,2,37.03,39,Charged Off
+42,Female,Retired,High School,391,91766,39.63,16757,Home,20.77,36,Own,5,0,40/58,1,5,55.29,6,Current
+52,Male,Self-employed,Bachelor's,365,136010,49.45,25895,Home,11.68,60,Mortgage,8,1,19/51,3,5,45.54,9,Current
+39,Female,Retired,Master's,661,116623,25.7,47560,Medical,23.98,36,Mortgage,7,2,5/53,1,2,59.12,25,Charged Off
+22,Male,Retired,High School,392,137446,21.59,46103,Home,9.78,60,Rent,10,2,18/51,3,4,35.39,7,Late
+31,Female,Retired,High School,553,24808,49.28,8036,Home,7.26,36,Rent,5,2,47/53,2,1,76.01,36,Late
+21,Female,Retired,Master's,751,74141,49.25,25871,Medical,24.09,60,Own,7,1,38/58,1,3,73.75,9,Current
+34,Female,Retired,Master's,334,29715,25.28,36323,Car,10.69,36,Own,8,0,25/55,3,0,79.18,10,Charged Off
+70,Female,Employed,Bachelor's,615,57017,38.18,19897,Medical,19.06,36,Mortgage,5,2,26/52,2,3,67.36,38,Fully Paid
+48,Male,Self-employed,Bachelor's,543,85214,28.36,39557,Home,17.87,36,Rent,9,1,19/54,3,5,16.7,27,Current
+63,Male,Self-employed,Bachelor's,789,139896,29.52,26457,Home,12.26,36,Own,4,0,22/53,3,2,94.0,19,Fully Paid
+43,Female,Unemployed,Master's,634,116346,46.2,28509,Car,18.65,36,Mortgage,9,0,39/55,0,4,14.96,7,Charged Off
+56,Male,Employed,Bachelor's,509,140494,44.92,44057,Credit Card,20.73,60,Mortgage,3,1,21/57,2,4,31.19,12,Late
+22,Female,Unemployed,High School,596,62206,27.68,38714,Credit Card,16.05,60,Mortgage,6,2,42/58,1,1,17.65,28,Late
+43,Male,Self-employed,Bachelor's,520,30906,31.03,28035,Medical,14.0,60,Rent,9,1,37/58,0,2,89.15,12,Charged Off
+50,Female,Unemployed,Master's,701,105660,46.78,23774,Medical,13.93,36,Mortgage,3,0,5/53,1,3,13.15,21,Fully Paid
+22,Male,Employed,Master's,657,24724,37.65,33306,Home,14.17,60,Mortgage,2,0,44/55,0,4,98.02,20,Charged Off
+64,Female,Self-employed,High School,404,49560,19.32,14995,Car,5.55,36,Rent,5,1,23/59,1,5,11.11,2,Current
+46,Female,Employed,Master's,311,83965,39.0,41571,Credit Card,18.99,60,Mortgage,7,1,35/52,3,1,43.45,28,Fully Paid
+19,Female,Retired,Master's,833,94767,22.98,30076,Car,22.87,36,Rent,9,0,14/51,1,3,13.93,1,Late
+20,Male,Retired,Master's,690,131803,37.96,45286,Credit Card,20.5,36,Mortgage,4,0,16/53,1,5,58.32,27,Fully Paid
+20,Female,Unemployed,Master's,797,142446,21.33,6964,Medical,5.29,60,Rent,2,2,16/55,0,3,45.73,14,Late
+21,Female,Employed,High School,352,118483,43.31,47310,Medical,22.8,60,Mortgage,4,0,8/56,3,1,98.52,15,Late
+47,Male,Retired,High School,497,52200,28.63,3096,Medical,16.53,36,Own,4,0,10/53,1,2,21.41,27,Current
+72,Male,Employed,Bachelor's,507,127106,19.46,44581,Medical,11.73,36,Mortgage,3,2,9/54,1,5,28.82,17,Current
+56,Female,Self-employed,Master's,774,106095,25.64,21658,Home,21.55,60,Mortgage,3,2,38/54,2,3,99.75,34,Current
+66,Male,Retired,Master's,762,110666,29.55,30631,Home,13.53,36,Own,10,1,27/55,1,4,43.43,17,Current
+62,Male,Employed,High School,335,26376,32.14,27567,Credit Card,15.87,36,Rent,3,2,33/57,3,3,21.45,3,Fully Paid
+37,Female,Retired,High School,531,77666,29.68,11398,Medical,14.59,60,Own,4,1,42/59,3,3,63.1,16,Late
+59,Female,Self-employed,Bachelor's,734,80780,44.41,10386,Credit Card,14.55,36,Mortgage,2,1,4/56,1,2,33.64,9,Late
+19,Male,Employed,Bachelor's,691,69959,25.31,48548,Medical,8.19,60,Rent,6,2,24/59,2,3,56.1,36,Charged Off
+52,Female,Retired,High School,304,142389,47.83,48801,Medical,13.43,36,Own,11,1,19/54,1,4,76.49,38,Charged Off
+58,Male,Retired,Bachelor's,677,99971,47.68,35077,Credit Card,8.6,60,Own,3,0,43/57,3,2,68.27,34,Late
+19,Male,Retired,Master's,650,75987,20.1,47142,Car,24.85,60,Rent,2,2,27/59,1,2,99.54,20,Current
+64,Female,Employed,High School,365,72559,29.59,23558,Credit Card,7.02,60,Mortgage,2,1,7/56,2,3,10.86,19,Late
+26,Male,Unemployed,Bachelor's,337,22047,27.81,12250,Home,18.13,60,Mortgage,10,1,47/56,1,4,96.74,12,Charged Off
+27,Female,Unemployed,High School,704,43341,40.62,21419,Credit Card,12.77,60,Own,11,0,36/54,3,5,25.89,18,Fully Paid
+62,Female,Unemployed,Master's,767,68513,26.36,6878,Credit Card,22.91,60,Own,2,2,44/53,3,1,33.44,37,Current
+41,Male,Employed,Bachelor's,671,86169,38.3,18064,Car,13.3,36,Own,9,0,5/56,0,2,72.39,32,Current
+34,Female,Unemployed,Master's,838,48043,27.0,7143,Home,8.2,60,Mortgage,7,2,45/52,0,5,11.17,19,Fully Paid
+49,Female,Employed,High School,359,114267,34.18,44708,Car,12.66,36,Mortgage,11,2,1/56,3,1,11.38,32,Current
+53,Male,Self-employed,High School,759,89921,49.13,19331,Credit Card,20.65,60,Mortgage,7,2,47/52,0,0,79.25,27,Late
+74,Female,Self-employed,Master's,729,134802,17.56,47007,Home,9.8,60,Own,10,2,26/54,1,5,36.05,37,Charged Off
+49,Female,Employed,High School,740,146943,45.47,38797,Car,20.12,60,Own,6,1,8/56,1,0,63.01,21,Fully Paid
+69,Male,Self-employed,High School,834,76660,18.56,19109,Credit Card,16.61,60,Mortgage,9,0,25/59,0,2,35.48,12,Fully Paid
+63,Male,Retired,Bachelor's,639,39477,21.39,16052,Home,21.89,36,Rent,11,1,13/58,0,2,21.8,37,Charged Off
+64,Female,Retired,Master's,685,53290,15.39,9956,Car,12.02,60,Mortgage,8,1,34/59,2,5,21.41,38,Fully Paid
+70,Female,Unemployed,High School,452,101615,30.76,26302,Home,17.43,36,Mortgage,11,1,13/57,2,0,92.45,10,Fully Paid
+66,Female,Employed,Master's,598,63833,36.5,48778,Home,18.43,36,Mortgage,11,0,24/59,2,2,32.73,19,Current
+25,Female,Employed,High School,442,64420,20.83,9428,Car,20.8,36,Rent,8,1,15/55,3,0,68.49,22,Charged Off
+68,Male,Self-employed,Master's,650,101228,29.7,34620,Credit Card,20.41,36,Rent,4,0,17/55,1,3,21.53,19,Current
+71,Male,Employed,Bachelor's,722,127681,25.33,39190,Car,16.03,60,Rent,9,2,39/54,3,1,65.97,34,Late
+63,Male,Self-employed,Bachelor's,301,84063,40.32,43813,Home,16.58,36,Mortgage,6,2,17/54,3,5,22.75,29,Late
+41,Female,Unemployed,High School,697,78203,41.61,22367,Credit Card,20.67,60,Own,2,1,49/56,0,0,82.99,19,Fully Paid
